@@ -1,7 +1,7 @@
 # PROJECT UHC - UnnamedHorrorGame
-UnnamedHorrorGame's HTML levels, made with Turbowarp.
+UnnamedHorrorGame's levels, made with Turbowarp and with love ♥️
 
-I used some (1~2) assets from the japanese horror game Lomando.com
+I used some (1~2) assets from the japanese horror game [Lomando.com](lomando.com)
 
 The first level is [cryingone](https://patoflamejantetv.github.io/UnnamedHorrorGame/cryingone)
 
