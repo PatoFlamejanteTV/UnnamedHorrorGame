@@ -10,3 +10,5 @@ Also, you can freely stream my game and make fangames/mods/custom levels/fork of
 Also, some of the level name is in Brazillian Portuguese (like "elenaoerabemvindo.html"). All puzzles are in English, its ok make an FNF mod or something else with my project.
 
 If you wanna see the Github Repo with all the levels, [click here](https://github.com/PatoFlamejanteTV/UnnamedHorrorGame/tree/main), if you wanna check my Youtube Channel, [click here](https://www.youtube.com/@patoflamejantetv) (note: i only make videos in Brazillian Portuguese!).
+
+The game was originally created because of the latest levels of Pasta58, and because they do not fit the same aesthetics as other levels.
