@@ -12,3 +12,5 @@ Also, some of the level name is in Brazillian Portuguese (like "elenaoerabemvind
 If you wanna see the Github Repo with all the levels, [click here](https://github.com/PatoFlamejanteTV/UnnamedHorrorGame/tree/main), if you wanna check my Youtube Channel, [click here](https://www.youtube.com/@patoflamejantetv) (note: i only make videos in Brazillian Portuguese!).
 
 The game was originally created because of the latest levels of Pasta58, and because they do not fit the same aesthetics as other levels.
+
+Game levels do not have exactly an order, the game does not have a lore either, which means that you can start from any level or from anywhere, that you will never get lost (except parts where you need to decorate a number or a sequence of forms).
