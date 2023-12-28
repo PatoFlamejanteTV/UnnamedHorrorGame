@@ -1,4 +1,4 @@
-# PROJECT UHC - UnnamedHorrorGame
+# PROJECT UHG - UnnamedHorrorGame
 UnnamedHorrorGame's levels, made with Turbowarp and with love ♥️
 
 I used some (1~2) assets from the japanese horror game [Lomando.com](lomando.com)
