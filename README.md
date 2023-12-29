@@ -14,3 +14,5 @@ If you wanna see the Github Repo with all the levels, [click here](https://githu
 The game was originally created because of the latest levels of Pasta58, and because they do not fit the same aesthetics as other levels.
 
 Game levels do not have exactly an order, the game does not have a lore either, which means that you can start from any level or from anywhere, that you will never get lost (except parts where you need to decorate a number or a sequence of forms).
+
+R.I.P. Pasta58 and UHG screamer wiki pages...
