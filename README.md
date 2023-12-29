@@ -3,7 +3,7 @@ UnnamedHorrorGame's levels, made with Turbowarp and with love ♥️
 
 I used some (1~2) assets from the japanese horror game [Lomando.com](lomando.com)
 
-[Click here to play the game (and also read some notes before playing).](https://patoflamejantetv.github.io/UnnamedHorrorGame/beforeplay.md)
+[Click here to play the game (and also read some notes before playing).](https://patoflamejantetv.github.io/UnnamedHorrorGame/beforeplay)
 
 Also, you can freely stream my game and make fangames/mods/custom levels/fork of this game, just please read the [LICENSE](./LICENSE) before making any thing!
 
